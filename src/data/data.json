@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": " Welcome to SweetMoss",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": " A step in the right direction to your new lifestyle .... say goodbye to low energy mornigs and days riddled with brain fog and anxiety, and say hello to clarity"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -35,12 +35,12 @@
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Tumeric Seamoss",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Original Seamoss",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
@@ -69,7 +69,7 @@
     {
       "icon": "fa fa-instagram",
       "name": "Instagram",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Check us out on Instagram were we post everything related to seamoss like how to properly store it , the process behind making it,and fun facts on everything seamoss."
     },
     {
       "icon": "fa fa-cart-arrow-down",
@@ -161,24 +161,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-instagram",
+      "title": "Instagram",
+      "text": "Make sure to follow us on Instagram to keep up with everything SweetMoss related ....@sweetmoss__"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-location-arrow",
+      "title": "Located",
+      "text": "Sweetmoss is located and operated out of New York City."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-microphone",
+      "title": "Podcast",
+      "text": " Make sure to check out the 'Thats Craaazy' Podcast on youtube  were we discuss topics ranging from health, passive incomes and every day topics just to name a few.  "
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-btc",
+      "title": "Crypto Currency",
+      "text": ""
     }
   ]
 }
